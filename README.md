@@ -10,11 +10,13 @@ $ git clone https://github.com/YUTATanamoto/Analysis-of-Specialists-Art-Apprecia
 $ cd Analysis-of-Specialists-Art-Appreciation  
 $ pip install pipenv  
 $ pipenv install  
+if you're using windows OS
+$ pipenv install pywin32
 $ pipenv shell  
 $ jupyter notebook  
 
 - jupyter notebook起動後　
-notebooks > analyze_LFHF-questtionaire
+notebooks > analyze_LFHF-questionaire
 
 ## Remarks
 - 分からないこと等ありましたら、質問等お気軽にどうぞ！

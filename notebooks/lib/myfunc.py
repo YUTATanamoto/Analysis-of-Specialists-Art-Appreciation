@@ -24,7 +24,7 @@ class FractalParser():
             )
             box_sizes.append(box_size)
             box_counts.append(count)
-            box_size = int(box_size / 1.2)
+            box_size = int(box_size / 2)
         log_box_sizes = np.log(box_sizes)
         log_box_counts = np.log(box_counts)
         fractal_dimension = -np.polyfit(log_box_sizes, log_box_counts, 1)[0]

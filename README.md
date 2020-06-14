@@ -10,8 +10,8 @@ $ git clone https://github.com/YUTATanamoto/Analysis-of-Specialists-Art-Apprecia
 $ cd Analysis-of-Specialists-Art-Appreciation  
 $ pip install pipenv  
 $ pipenv install  
-if you're using windows OS
-$ pipenv install pywin32
+if you're using windows OS  
+$ pipenv install pywin32  
 $ pipenv shell  
 $ jupyter notebook  
 

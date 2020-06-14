@@ -5,7 +5,6 @@
  - 実験呈示画像のフラクタル次元を算出
 
 ## Usage
-
 - 環境構築  
 $ git clone https://github.com/YUTATanamoto/Analysis-of-Specialists-Art-Appreciation.git  
 $ cd Analysis-of-Specialists-Art-Appreciation  
@@ -14,6 +13,8 @@ $ pipenv install
 $ pipenv shell  
 $ jupyter notebook  
 
+- jupyter notebook起動後　
+notebooks > analyze_LFHF-questtionaire
 
 ## Remarks
 - 分からないこと等ありましたら、質問等お気軽にどうぞ！

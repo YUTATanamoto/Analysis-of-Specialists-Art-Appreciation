@@ -1,7 +1,7 @@
-,id,content
-0,q1,豊かでない- 豊かである
-1,q2,ポジティブでない - ポジティブである
-2,q3,暗い - 明るい
-3,q4,弱々しい - 力強い
-4,q5,平凡な - 独創的な
-5,q6,理性的な - 感情的な
+,id,title,content
+0,q1,Questionnaire 1,豊かでない- 豊かである
+1,q2,Questionnaire 2,ポジティブでない - ポジティブである
+2,q3,Questionnaire 3,暗い - 明るい
+3,q4,Questionnaire 4,弱々しい - 力強い
+4,q5,Questionnaire 5,平凡な - 独創的な
+5,q6,Questionnaire 6,理性的な - 感情的な

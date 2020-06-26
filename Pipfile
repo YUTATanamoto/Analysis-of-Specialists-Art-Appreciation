@@ -12,6 +12,8 @@ pandas = "*"
 pillow = "*"
 numpy = "*"
 opencv-python = "*"
+pywin32 = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
